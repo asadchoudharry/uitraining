@@ -1,0 +1,60 @@
+{
+ "feature_id": "FP-001",
+ "name": "Document workflow record (levels + escalation)",
+ "aliases": [
+  "Document Workflows",
+  "Workflow & Approvals"
+ ],
+ "source_ids": [
+  "S05"
+ ],
+ "source_urls": [
+  "https://dreamserp.dreamstechnologies.com/tailwind/document-workflows.html",
+  "https://dreamserp.dreamstechnologies.com/tailwind/workflow-approvals.html"
+ ],
+ "evidence_level": "UI_VISIBLE_ONLY",
+ "observed_behavior": "Two admin pages: a workflows table (ID, Name, Module, Levels 2-6, Escalation 12/24/36/48 hours, Active Yes/No) with Add/Edit modals (Workflow ID*, Module* select HR/Finance/Legal, Name*, Levels, Escalation, Active) and delete confirmation; and an approvals catalog table (ID, Module, Name, Description, Status) with module filter chips and an Add/Edit Record modal (ID*, Module*, Name*, Status* Active/Inactive, Description). Sample approval use cases: expense, PO by value, leave, discount >10%, timesheet, asset disposal, policy, access, contract, audit exception.",
+ "unverified_behavior": "Any routing, condition evaluation, approver assignment, notification, SLA timing or execution. No builder, triggers, conditions or logs exist in the pages.",
+ "business_problem": "Approvals are configured inconsistently per module with no single register.",
+ "target_users": "System administrators, process owners",
+ "jobs_to_be_done": "Register an approval workflow for a module; see its level count and escalation time; activate/deactivate it.",
+ "industry_applicability": "All (cross-industry)",
+ "module": "Workflow",
+ "navigation_path": "Settings > Document Workflows; Settings > Workflow & Approvals",
+ "entry_routes": [
+  "document-workflows.html",
+  "workflow-approvals.html"
+ ],
+ "screen_ids": [
+  "S05-DOCWF",
+  "S05-WFAPP"
+ ],
+ "actions": "Add, Edit, Delete (confirm), Search, Sort, Print, Export, paginate (10/25/50/100)",
+ "input_fields": "Workflow ID, Module, Name, Levels, Escalation, Active / ID, Module, Name, Status, Description",
+ "outputs": "Saved workflow record in the table",
+ "states": "Active / Inactive (record-level only)",
+ "validations": "ID, Module, Name required (asterisk-marked in the source form)",
+ "permissions": "Admin role implied; not verified",
+ "notifications": "None demonstrated",
+ "audit": "None demonstrated",
+ "data_entities": "Workflow {id, module, name, levels, escalation_hours, active}; ApprovalRecord {id, module, name, description, status}",
+ "proposed_api_contracts": "PROPOSED: GET/POST/PATCH /v1/document-workflows (see automation-lab spec)",
+ "integrations": "None demonstrated",
+ "automation_candidates": "This record is the seed of the proposed automation engine (automation-lab/)",
+ "dependencies": "Module registry",
+ "edge_cases": "Duplicate IDs; levels semantics undefined in source; escalation without a calendar",
+ "security_privacy": "Rule records may encode approval policy — restrict edit rights; audit changes",
+ "responsive_accessibility": "Modal CRUD pattern is responsive-neutral; keyboard behaviour NOT_VERIFIED",
+ "design_reference": "automation-lab/document-workflow-deep-dive.md",
+ "implementation_complexity": "Low (as observed) / High (as a real engine)",
+ "benefit_hypothesis": "A single register of approval workflows reduces shadow processes.",
+ "target_baseline_status": "NOT_AUDITED",
+ "backlog_priority": "P1_HIGH_LEVERAGE",
+ "acceptance_criteria": "Given an admin, when they create a workflow with module+levels+escalation, then it appears in the table with an Active flag and can be deactivated without deletion.",
+ "test_cases": [
+  "Create/edit/delete happy path",
+  "Required-field validation",
+  "Deactivate hides the workflow from new documents (proposed semantics — not source behaviour)"
+ ],
+ "provenance": "UITraining research, 2026-11-12"
+}

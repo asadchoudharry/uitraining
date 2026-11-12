@@ -1,0 +1,44 @@
+/* UITraining ORIGINAL semantic tokens (clean-room synthesis v1.0).
+   Principles: one accent (S09), tokenised surfaces + 4-step text ramp (S03),
+   dense-but-calm enterprise scale (S04-S06), tabular numerals everywhere data lives (S10 corpus).
+   Use these variables; do not hardcode hex values in components. */
+:root {
+  color-scheme: light;
+  --canvas: #F7F6F3; --sidebar-bg: #F1F0EC; --card: #FFFFFF; --raised: #FFFFFF; --sunken: #F4F3EF;
+  --border: #E7E4DD; --border-strong: #D6D2C9; --divider: #EFEEE9;
+  --text: #1D1C1A; --text-2: #57544E; --text-3: #6E6A62; --text-disabled: #A8A49B; --text-inv: #FFFFFF;
+  --accent: #3B50C8; --accent-hover: #3245B0; --on-accent: #FFFFFF;
+  --accent-soft: color-mix(in srgb, var(--accent) 10%, transparent);
+  --accent-line: color-mix(in srgb, var(--accent) 38%, transparent);
+  --success: #24754B; --warning: #8F5E0E; --danger: #B23C30; --info: #3570C4; --neutral: #8A867E;
+  --success-soft: color-mix(in srgb, var(--success) 11%, transparent);
+  --warning-soft: color-mix(in srgb, var(--warning) 12%, transparent);
+  --danger-soft: color-mix(in srgb, var(--danger) 10%, transparent);
+  --overlay: rgba(24, 22, 19, 0.32); --focus: #3B50C8;
+  --shadow-card: 0 1px 2px rgba(28,25,20,.04), 0 0 0 1px var(--border);
+  --shadow-pop: 0 12px 32px -8px rgba(28,25,20,.16), 0 2px 6px -2px rgba(28,25,20,.06), 0 0 0 1px var(--border);
+  --shadow-drag: 0 16px 36px -10px rgba(28,25,20,.28), 0 0 0 1px var(--border-strong);
+  --r-xs: 4px; --r-sm: 6px; --r: 8px; --r-lg: 12px; --r-full: 999px;
+  --s-1: 4px; --s-2: 8px; --s-3: 12px; --s-4: 16px; --s-5: 20px; --s-6: 24px; --s-8: 32px; --s-10: 40px; --s-12: 48px;
+  --gutter: 24px;
+  --font: 'Inter', ui-sans-serif, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --fs-2xs: 11px; --fs-xs: 12px; --fs-sm: 13px; --fs: 14px; --fs-md: 15px; --fs-lg: 17px; --fs-xl: 20px; --fs-2xl: 24px; --fs-3xl: 30px;
+  --h-xs: 22px; --h-sm: 26px; --h-md: 30px; --h-lg: 36px; --touch-min: 44px;
+  --side-w: 252px; --side-w-mini: 64px; --topbar-h: 48px; --row-h: 44px; --row-h-compact: 36px;
+  --dur-fast: 120ms; --dur: 160ms; --dur-slow: 240ms;
+  --ease: cubic-bezier(0.23, 1, 0.32, 1); --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+  --z-sticky: 20; --z-topbar: 30; --z-drawer: 40; --z-modal: 50; --z-toast: 60; --z-palette: 70;
+}
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --canvas: #171716; --sidebar-bg: #131312; --card: #1E1E1D; --raised: #262625; --sunken: #1A1A19;
+  --border: #2C2B29; --border-strong: #3B3A37; --divider: #252524;
+  --text: #ECEAE5; --text-2: #B5B2AB; --text-3: #9A968F; --text-disabled: #6F6C66; --text-inv: #171716;
+  --accent: #8E9AF3; --accent-hover: #A5B0F5; --on-accent: #12131C;
+  --success: #5CBA86; --warning: #D8A443; --danger: #E07A6B; --info: #7FA8DE; --neutral: #9A968F;
+  --overlay: rgba(0,0,0,.56); --focus: #8E9AF3;
+}
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur-fast: 0ms; --dur: 0ms; --dur-slow: 0ms; }
+}

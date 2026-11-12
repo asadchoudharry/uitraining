@@ -1,0 +1,57 @@
+{
+ "feature_id": "FP-002",
+ "name": "Saved views + filter builder over one dataset",
+ "aliases": [
+  "Views",
+  "Filters"
+ ],
+ "source_ids": [
+  "S03"
+ ],
+ "source_urls": [
+  "https://github.com/gr8rstudio/gr8r-studio"
+ ],
+ "evidence_level": "CODE_VERIFIED",
+ "observed_behavior": "Actions exist and are wired in source: addFilter/fEdit/fToggleVal/rmFilter/clearFilters, saveView/saveViewSubmit/renameView/delView, setViewMode, toggleCol, sorting and grouping actions; views persist in localStorage with the workspace state.",
+ "unverified_behavior": "Server persistence, sharing views between users, permission-scoped views.",
+ "business_problem": "Users re-create the same filtered lists daily.",
+ "target_users": "All workspace users",
+ "jobs_to_be_done": "Save a named filter+columns+sort configuration and reapply it in one click across board/list/table/calendar/timeline.",
+ "industry_applicability": "All",
+ "module": "Platform",
+ "navigation_path": "Any data view > Filters > Save view",
+ "entry_routes": [
+  "src/actions/actions.js (filter/view actions)"
+ ],
+ "screen_ids": [
+  "S03-VIEWS"
+ ],
+ "actions": "Add/edit/remove/clear filters, save/rename/delete view, switch view mode, toggle columns, sort, group",
+ "input_fields": "Filter field/operator/value; view name",
+ "outputs": "A persisted view definition applied to the dataset",
+ "states": "View: draft (unsaved changes) vs saved",
+ "validations": "View name required",
+ "permissions": "Own views only (local app)",
+ "notifications": "None",
+ "audit": "None (local only)",
+ "data_entities": "View {id, name, filters[], columns[], sort, group, viewMode}",
+ "proposed_api_contracts": "PROPOSED: /v1/views CRUD with owner + shared scopes",
+ "integrations": "None",
+ "automation_candidates": "Saved views as automation triggers (view count crosses threshold)",
+ "dependencies": "Dataset query layer",
+ "edge_cases": "Stale filters after schema change; view name collisions",
+ "security_privacy": "Shared views must not leak filter values across permissions",
+ "responsive_accessibility": "Filter chips keyboard-operable (partially verified in keyboard.js patterns)",
+ "design_reference": "case-studies/github/gr8r-studio.md §7/§9",
+ "implementation_complexity": "Medium",
+ "benefit_hypothesis": "Saved views cut repeated triage time and standardise team queues.",
+ "target_baseline_status": "NOT_AUDITED",
+ "backlog_priority": "P0_FOUNDATION",
+ "acceptance_criteria": "Given a filtered table, when the user saves it as a view and switches to board, then the same filter set applies in board mode.",
+ "test_cases": [
+  "Save/rename/delete view",
+  "Filter persistence across view modes",
+  "Clear-all restores the unfiltered dataset"
+ ],
+ "provenance": "UITraining research, 2026-11-12"
+}

@@ -1,0 +1,58 @@
+{
+ "feature_id": "FP-003",
+ "name": "Consent log (evidence-grade consent records)",
+ "aliases": [
+  "Consent Log"
+ ],
+ "source_ids": [
+  "S10"
+ ],
+ "source_urls": [
+  "case-studies/user-images/uimg-056-consent-log.md"
+ ],
+ "evidence_level": "UI_VISIBLE_ONLY",
+ "observed_behavior": "A searchable, exportable table of 48,920 consent records with summary strip (total, accepted 78%, rejected 13%, customised 9%), columns Consent ID / Date & Time / Country / Decision / Categories / Framework / IP (masked) / Device, framework values spanning GDPR, CCPA, LGPD, PIPEDA, APPI, Privacy Act; pagination to 5,436 pages; Export CSV action; filters for period, website, decision.",
+ "unverified_behavior": "Collection mechanics, retention, proof-of-consent storage, deletion workflows.",
+ "business_problem": "Regulators and auditors require per-visitor consent evidence, not aggregate claims.",
+ "target_users": "Compliance leads, DPOs",
+ "jobs_to_be_done": "Prove what a visitor consented to, when, under which framework; export evidence.",
+ "industry_applicability": "All web-facing industries",
+ "module": "Governance/Compliance",
+ "navigation_path": "Consent > Consent Log",
+ "entry_routes": [
+  "UIMG-056"
+ ],
+ "screen_ids": [
+  "UIMG-053",
+  "UIMG-055",
+  "UIMG-056"
+ ],
+ "actions": "Search by ID/IP, filter, Export CSV, paginate",
+ "input_fields": "Period, website, decision filters; search text",
+ "outputs": "Filtered records; CSV export",
+ "states": "Decision: Accepted / Rejected / Customised",
+ "validations": "IP masked in display (observed)",
+ "permissions": "Compliance role implied; not verified",
+ "notifications": "None visible",
+ "audit": "The log itself is the audit artefact",
+ "data_entities": "ConsentRecord {id, ts, country, decision, categories[], framework, ip_masked, device}",
+ "proposed_api_contracts": "PROPOSED: GET /v1/consent-records (cursor pagination, export job)",
+ "integrations": "Cookie scanner (UIMG-055), banner (UIMG-053 suite)",
+ "automation_candidates": "Anomaly alert when rejection rate spikes per framework",
+ "dependencies": "Scanner + banner modules",
+ "edge_cases": "Scale (48,920 rows shown) demands server pagination + export jobs, never client rendering of full sets",
+ "security_privacy": "IP handling is personal-data processing: masking, retention limits and access logging required",
+ "responsive_accessibility": "Table pattern only; a11y NOT_VERIFIED",
+ "design_reference": "visual-fidelity-atlas + case-studies/user-images/uimg-056",
+ "implementation_complexity": "Medium",
+ "benefit_hypothesis": "Evidence-grade logs turn compliance from assertion into proof.",
+ "target_baseline_status": "NOT_AUDITED",
+ "backlog_priority": "P1_HIGH_LEVERAGE",
+ "acceptance_criteria": "Given 48,920 records, when an auditor filters by framework=GDPR and exports, then a CSV job is created and the export contains only matching records with masked IPs.",
+ "test_cases": [
+  "Filter correctness per framework",
+  "Export completeness vs table count",
+  "IP masking in UI and export"
+ ],
+ "provenance": "UITraining research, 2026-11-12"
+}

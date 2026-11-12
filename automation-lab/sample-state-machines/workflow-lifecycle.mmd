@@ -1,0 +1,10 @@
+stateDiagram-v2
+    [*] --> Draft
+    Draft --> Testable: test passes
+    Testable --> PendingApproval: submit
+    PendingApproval --> Active: approved
+    PendingApproval --> Draft: returned
+    Active --> Paused: pause
+    Paused --> Active: resume
+    Active --> Archived: archive
+    Paused --> Archived: archive

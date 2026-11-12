@@ -1,0 +1,9 @@
+stateDiagram-v2
+    [*] --> Pending
+    Pending --> Running
+    Running --> AwaitingHuman: approval step
+    AwaitingHuman --> Running: decision
+    Running --> Succeeded
+    Running --> Failed
+    Running --> Cancelled
+    Failed --> Running: retry (policy)

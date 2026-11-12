@@ -1,0 +1,5 @@
+# Trigger & action catalog (PROPOSED — engine vocabulary)
+
+Triggers: record.created / record.updated / record.deleted / field.changed / status.transitioned / threshold.crossed / schedule.cron / date.proximity / email.received / webhook.received / file.event / approval.responded / stock.moved / payment.event / integration.event.
+Actions: assign user/team, set status, create task, generate document, notify (in-app/email/SMS), webhook (signed), start approval, update record, open ticket, add comment, enqueue report, create related transaction. Each action declares a side-effect class (none/internal/external/financial) that drives publishing approvals and test-mode behaviour (dry runs execute none of them).
+Source grounding: the *names* of approval use cases (expense, PO, leave, discount >10%, timesheet, asset disposal, policy, access, contract, audit exception) are OBSERVED as records in S05 `workflow-approvals.html`; the trigger/action machinery itself is NOT_FOUND_IN_SOURCE and is specified here as NEW_PROPOSAL.

@@ -1,0 +1,34 @@
+{
+ "screen_id": "S09-SETUP-01",
+ "source_id": "S09",
+ "title": "HYFIN Company Setup \u2014 Company Information (step 1 of 9)",
+ "evidence": "OBSERVED (live-browser visual inspection)",
+ "geometry": "ESTIMATED",
+ "palette_page_listed": [
+  "#EEEEEE",
+  "#C0C1BE",
+  "#0F1011",
+  "#5D5E5F",
+  "#D67035",
+  "#D87B42"
+ ],
+ "stepper_steps": [
+  "Company Info",
+  "Verify Bank Account",
+  "Select a Plan",
+  "Billing Info",
+  "Cost Savings",
+  "Features",
+  "Notifications",
+  "QuickBooks Online",
+  "Invite Your Team"
+ ],
+ "fields_visible": [
+  "Business Type (select)",
+  "Business Name (text)",
+  "Address (text, clear)",
+  "Business Email (text)"
+ ],
+ "ctas_visible": [],
+ "notes": "Bottom of artwork fades to white; no CTA visible below Business Email."
+}

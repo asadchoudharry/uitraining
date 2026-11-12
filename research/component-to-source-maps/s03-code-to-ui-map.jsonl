@@ -1,0 +1,18 @@
+{"source_id": "S03", "code_path": "src/styles/tokens.css", "screen": "All screens", "controls": "Design tokens: surfaces, text ramp, accent, spacing, type scale, radii, sizes (sidebar 252px, topbar 46px, gutter 24px)", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/shell/layout.js + render.js", "screen": "App shell", "controls": "Sidebar/topbar layout, render loop preserving focus/scroll", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/shell/view-engine.js", "screen": "Project screens", "controls": "Chooses board/list/table/calendar/timeline/files view per project", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/shell/skeletons.js", "screen": "All screens", "controls": "Loading skeleton states", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/pages/home.js", "screen": "Home dashboard", "controls": "Workspace home", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/pages/inbox.js", "screen": "Inbox", "controls": "Triage list", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/pages/auth.js", "screen": "Auth + onboarding", "controls": "Login + 6-step onboarding wizard (state S.ui.onb/onbData in src/core/store.js)", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/pages/settings.js", "screen": "Settings", "controls": "Theme/accent/density, role permissions, shortcuts, 2FA, danger zone", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/pages/design-system.js", "screen": "Design system page", "controls": "In-app component showcase", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/overlays/drawer.js", "screen": "Task detail", "controls": "Detail drawer with comments/activity tabs", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/overlays/palette.js", "screen": "Command palette", "controls": "Cmd/Ctrl+K palette UI", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/overlays/modals.js + popovers.js + context-menu.js", "screen": "All data screens", "controls": "Dialogs, pickers, context menus", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/actions/actions.js (+ archive/drag-drop/events/keyboard/subtasks/teams)", "screen": "All interactions", "controls": "182 action registrations (175 unique) on the shared table A; data-a delegation in events.js", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/core/store.js", "screen": "State", "controls": "localStorage persistence (key gr8r.v2), seed fallback, prefs", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/data/seed.js", "screen": "Demo data", "controls": "Seed workspace (members, projects, tasks) — demo data, not a backend", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/ui/select.js", "screen": "Forms", "controls": "Native <select> enhancement (native element stays source of truth)", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "src/ui/toast.js", "screen": "Feedback", "controls": "Toasts + mutation helper", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
+{"source_id": "S03", "code_path": "vite.config.js", "screen": "Build", "controls": "Vite + Lucide subset plugin (virtual:icons)", "commit": "904205c626918ee96054eb35495c394a60c0c601"}
