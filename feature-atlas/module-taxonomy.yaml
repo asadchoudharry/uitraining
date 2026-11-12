@@ -1,0 +1,22 @@
+# Module taxonomy sweep (E07) - verdict per domain across ALL sources.
+# FOUND = evidenced in at least one source at the stated level; the feature inventory carries the per-item evidence.
+domains:
+  A_platform_saas_identity: FOUND (S05/S06 settings+roles routes UI_ONLY; S03 settings CODE_VERIFIED incl. 2FA UI, role-permissions table; tenant provisioning NOT_FOUND as working feature anywhere - PROPOSED)
+  B_shared_productivity_apps: FOUND (S03 inbox/calendar-class pages CODE_VERIFIED as UI; S05 apps routes UI_ONLY; S02 demos)
+  C_workflow_approvals_automation: PARTIAL (S05 register UI_ONLY; S02 Relay console UI; engine NOT_FOUND - see automation-lab)
+  D_crm_revenue: FOUND (S05 CRM routes + dashboard UI_ONLY; S02 CloseCRM/SellerOS; S08 CRM shots)
+  E_sales_documents: FOUND (S05/S06 routes UI_ONLY)
+  F_procurement_vendor: FOUND (S05/S06 routes UI_ONLY; S02 Veluno supplier lifecycle RUNTIME_OBSERVED demo)
+  G_inventory_warehouse: FOUND (S05/S06 extensive routes UI_ONLY)
+  H_pos_retail: FOUND (S06: 5 terminal variants + back office UI_ONLY)
+  I_finance_accounting: FOUND (S05/S06 routes UI_ONLY; S02 LedgerOS demo)
+  J_hr_payroll: FOUND (S05 HRM dashboard + routes UI_ONLY; S04 payroll/attendance)
+  K_projects_tasks: FOUND (S03 CODE_VERIFIED; S04/S05 routes)
+  L_construction_field_safety: FOUND (S04 full suite UI_ONLY)
+  M_assets_service_maintenance: FOUND (S04 equipment/fleet/maintenance; S05 assets)
+  N_manufacturing: NOT_FOUND_IN_SOURCE (no BOM/MRP/routing in any source; recorded, not invented)
+  O_analytics_bi: FOUND (role dashboards in S05/S06; S10 corpus)
+  P_support_governance: FOUND (S05 tickets/support dashboard; S10 consently governance suite)
+  Q_ux_infrastructure_settings: FOUND (S03 design-system page + prefs CODE_VERIFIED; S05/S06 settings routes)
+  R_ai_assisted: UI_ONLY where present (S10 agent panels; S02 AI-agent narratives) - always separated from verified capability; engine claims NOT_VERIFIED everywhere
+verticals_noted: [school/SIS (S10 Nextstep/Throughline/Algebra), healthcare (S10 Elera/hospital), consent/privacy (S10 consently), fleet/logistics (S02 Axle/Loadline/Sortie), aviation (S02 Contrail prototype), finance-ops (S02 LedgerOS)]
