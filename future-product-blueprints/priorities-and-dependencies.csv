@@ -1,0 +1,10 @@
+capability,band,value_0_5,cross_industry_reuse_0_5,frequency_0_5,evidence_quality_0_5,strategy_alignment_0_5,effort_inverse_0_5,dependency_risk_inverse_0_5,compliance_risk_inverse_0_5,basis
+Workflow automation engine,P0_FOUNDATION,5,5,4,3,5,2,3,4,automation-lab/workflow-engine-proposed-spec.md + FDD
+Saved views + filter builder platform,P0_FOUNDATION,5,5,5,5,4,4,2,1,FP-002; S03 code-verified pattern
+Company setup + activation analytics,P1_HIGH_LEVERAGE,5,4,4,4,5,3,2,2,S09 + FP-004
+Document workflow register (as observed) + maker-checker upgrade,P1_HIGH_LEVERAGE,4,5,5,5,4,5,2,2,FP-001
+Consent & governance evidence pack,P1_HIGH_LEVERAGE,4,3,3,4,3,3,3,4,FP-003
+Integration gallery with validated activation,P1_HIGH_LEVERAGE,4,4,4,3,4,3,3,3,Pattern P10
+POS layout-variant family + offline queue,P2_DOMAIN_PACK,4,2,4,3,3,3,3,2,FP-005
+"Construction delivery pack (progress, drawings, QA/HSE)",P2_DOMAIN_PACK,4,2,4,3,3,3,3,3,S04 census
+AI agent panel for analytics products,P3_OPTIONAL_EXPERIMENT,3,3,3,2,3,2,4,4,S10 Fulcrum/S02 agents; human-review gates mandatory
