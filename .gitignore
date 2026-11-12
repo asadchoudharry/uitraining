@@ -1,0 +1,8 @@
+# Working copies and build output only. Rights are enforced by scripts/validate.py
+# (binary assets are rejected outside assets/licensed-only) and by PR review — not by ignore rules.
+captures/
+working/
+node_modules/
+dist/
+.DS_Store
+*.muse-github-snapshot-sync.json
