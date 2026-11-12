@@ -1,0 +1,65 @@
+# Source registry — UITraining (verified 2026-11-12)
+destination_repository: https://github.com/asadchoudharry/uitraining
+work_branch: research/design-intelligence
+sources:
+  - id: S01
+    url: https://dribbble.com/ilias-miah/shots
+    type: dribbble-profile
+    http_status_2026_11_12: 200
+    rights: RIGHTS_RESTRICTED (portfolio artwork; metadata + original analysis only)
+    status: DOCUMENTED_ONLY (72 shots enumerated pages 1-3; profile has more pages - see coverage notes)
+  - id: S02
+    url: https://gr8rstudio.com/work/
+    type: studio-work-index
+    http_status_2026_11_12: 200
+    rights: Studio content; analysis only. robots.txt allows crawling except /api/; sitemap lists exactly the 19 work pages found.
+    status: VERIFIED_AND_STUDIED (19/19 case pages opened; 13 linked demos inspected at entry/route level)
+  - id: S03
+    url: https://github.com/gr8rstudio/gr8r-studio
+    type: github-repository
+    pinned_commit: 904205c626918ee96054eb35495c394a60c0c601
+    http_status_2026_11_12: 200
+    rights: NO LICENCE FILE - all rights reserved by default; no code republication; fork reference only
+    status: VERIFIED_AND_STUDIED (cloned, read, lint PASS, format PASS, build PASS)
+  - id: S04
+    url: https://dreamserp.dreamstechnologies.com/construction/tailwind/index.html
+    type: html-demo
+    http_status_2026_11_12: 200
+    rights: RIGHTS_RESTRICTED (commercial template)
+    status: DOCUMENTED_ONLY (53/53 routes HTTP 200 via bounded BFS)
+  - id: S05
+    url: https://dreamserp.dreamstechnologies.com/tailwind/index.html
+    type: html-demo
+    http_status_2026_11_12: 200
+    rights: RIGHTS_RESTRICTED (commercial template)
+    status: DOCUMENTED_ONLY (231/231 routes HTTP 200; workflow pages studied at structure level)
+  - id: S06
+    url: https://dreamspos.dreamstechnologies.com/retail-pos/html/index.html
+    type: html-demo
+    http_status_2026_11_12: 200
+    rights: RIGHTS_RESTRICTED (commercial template)
+    status: DOCUMENTED_ONLY (263/263 routes HTTP 200; sibling vertical demos out of scope, recorded as outbound links)
+  - id: S07
+    url: https://dribbble.com/wolfpixelagency
+    type: dribbble-profile
+    http_status_2026_11_12: 200
+    rights: RIGHTS_RESTRICTED
+    status: DOCUMENTED_ONLY (26 shots enumerated; 13 in scope)
+  - id: S08
+    url: https://dribbble.com/hatypostudio
+    type: dribbble-profile
+    http_status_2026_11_12: 200
+    rights: RIGHTS_RESTRICTED
+    status: DOCUMENTED_ONLY (52 shots enumerated over 2 pages + snippets; 29 in scope)
+  - id: S09
+    url: https://dribbble.com/shots/26442731-Onboarding-Company-Setup
+    type: dribbble-shot
+    http_status_2026_11_12: "curl 202/0 bytes; live browser rendered fully"
+    rights: RIGHTS_RESTRICTED (artwork by Jeremy Blaze / Never Before Seen)
+    status: VERIFIED_AND_STUDIED (live-browser visual inspection)
+  - id: S10
+    url: "user-supplied: DashboardOnboardingImages.zip (this conversation)"
+    type: user-images
+    count: 56 images (54 unique by SHA-256)
+    rights: USER_SUPPLIED for study; binaries NOT republished pending per-image redistribution confirmation
+    status: VERIFIED_AND_STUDIED (every image individually inspected)
