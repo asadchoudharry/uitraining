@@ -1,0 +1,147 @@
+{
+  "project": "UITRAINING",
+  "owner": "ChatGPT",
+  "destination_branch": "main",
+  "namespace": "research/chatgpt/",
+  "muse_tree_policy": "Separate; do not touch Muse source tree",
+  "count": 10,
+  "sources": [
+    {
+      "source_id": "S01",
+      "canonical_url": "https://dribbble.com/ilias-miah/shots",
+      "source_type": "DESIGN_PORTFOLIO",
+      "discovery_state": "SHOT_ENUMERATION_PARTIAL",
+      "rights_note": "Public images; no redistribution rights established.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S02",
+      "canonical_url": "https://gr8rstudio.com/work/",
+      "source_type": "CASE_STUDY_PORTFOLIO",
+      "discovery_state": "INDEXED_19_CASE_STUDIES",
+      "rights_note": "Public case studies; live demos need separate verification.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S03",
+      "canonical_url": "https://github.com/gr8rstudio/gr8r-studio",
+      "source_type": "OPEN_SOURCE_INSPECTION",
+      "discovery_state": "CODE_PARTIALLY_INSPECTED",
+      "rights_note": "Root LICENSE not found; reference-only, no source copies.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S04",
+      "canonical_url": "https://dreamserp.dreamstechnologies.com/construction/tailwind/index.html",
+      "source_type": "DEMO_FRONTEND",
+      "discovery_state": "INDEXED_16_URLS_PARTIAL",
+      "rights_note": "Paid/template media, reference-only.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S05",
+      "canonical_url": "https://dreamserp.dreamstechnologies.com/tailwind/index.html",
+      "source_type": "DEMO_FRONTEND",
+      "discovery_state": "INDEXED_54_URLS_PARTIAL",
+      "rights_note": "Paid/template media, reference-only.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S06",
+      "canonical_url": "https://dreamspos.dreamstechnologies.com/retail-pos/html/index.html",
+      "source_type": "DEMO_FRONTEND",
+      "discovery_state": "INDEXED_42_URLS_PARTIAL",
+      "rights_note": "Paid/template media, reference-only; POS UI is not backend evidence.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S07",
+      "canonical_url": "https://dribbble.com/wolfpixelagency",
+      "source_type": "DESIGN_PORTFOLIO",
+      "discovery_state": "SHOT_ENUMERATION_PARTIAL",
+      "rights_note": "Public images; do not republish.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S08",
+      "canonical_url": "https://dribbble.com/hatypostudio",
+      "source_type": "DESIGN_PORTFOLIO",
+      "discovery_state": "SHOT_ENUMERATION_PARTIAL",
+      "rights_note": "Public images; do not republish.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S09",
+      "canonical_url": "https://dribbble.com/shots/26442731-Onboarding-Company-Setup",
+      "source_type": "STATIC_SHOT",
+      "discovery_state": "PAGE_CONTENT_INSPECTED_VISUAL_UNTESTED",
+      "rights_note": "Static shot, no working form/step transition confirmed.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    },
+    {
+      "source_id": "S10",
+      "canonical_url": null,
+      "source_type": "FUTURE_USER_UPLOADS",
+      "discovery_state": "AWAITING_EVIDENCE",
+      "rights_note": "No republishing prior or future images without rights confirmation.",
+      "evidence_checked_at": "2026-11-12",
+      "coverage_census_complete": false,
+      "screen_by_screen_tested": false,
+      "role": "Source of design/feature intelligence; not destination implementation"
+    }
+  ],
+  "grading": {
+    "coverage": [
+      "VERIFIED_AND_STUDIED",
+      "DOCUMENTED_ONLY",
+      "RIGHTS_RESTRICTED",
+      "ACCESS_BLOCKED",
+      "OUT_OF_SCOPE_WITH_REASON",
+      "DUPLICATE"
+    ],
+    "feature": [
+      "SOURCE_IMPLEMENTED",
+      "UI_VISIBLE_ONLY",
+      "OFFICIALLY_DOCUMENTED",
+      "INFERRED",
+      "PROPOSED"
+    ],
+    "target": [
+      "TARGET_VERIFIED_PRESENT",
+      "TARGET_VERIFIED_ABSENT",
+      "TARGET_STATUS_UNVERIFIED"
+    ]
+  },
+  "disclaimers": [
+    "Indexed page discovery is not an exhaustive route census",
+    "Public static template navigation is not proof of functioning backend",
+    "No licensed third-party assets copied"
+  ]
+}
