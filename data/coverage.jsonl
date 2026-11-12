@@ -1,0 +1,788 @@
+{"item_id": "SHOT-001", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard / SaaS / fintech", "date": "2026-11-12"}
+{"item_id": "SHOT-002", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / web app — asset transfer tracking workflow", "date": "2026-11-12"}
+{"item_id": "SHOT-003", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / web app — equipment asset detail screen", "date": "2026-11-12"}
+{"item_id": "SHOT-004", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — fleet data", "date": "2026-11-12"}
+{"item_id": "SHOT-005", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — AI quantity verification", "date": "2026-11-12"}
+{"item_id": "SHOT-006", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — construction estimating", "date": "2026-11-12"}
+{"item_id": "SHOT-007", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS / enterprise dashboard — workflow builder", "date": "2026-11-12"}
+{"item_id": "SHOT-008", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS analytics dashboard — ROI/insights", "date": "2026-11-12"}
+{"item_id": "SHOT-009", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS dashboard — incident management / operations", "date": "2026-11-12"}
+{"item_id": "SHOT-010", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS / enterprise dashboard — agent trust", "date": "2026-11-12"}
+{"item_id": "SHOT-011", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — property maintenance", "date": "2026-11-12"}
+{"item_id": "SHOT-012", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — AI procurement", "date": "2026-11-12"}
+{"item_id": "SHOT-013", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — construction (title spelling as published: 'Dashbaord')", "date": "2026-11-12"}
+{"item_id": "SHOT-014", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — property management + approvals", "date": "2026-11-12"}
+{"item_id": "SHOT-015", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — property operations / AI agent", "date": "2026-11-12"}
+{"item_id": "SHOT-016", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / SaaS — workforce OS", "date": "2026-11-12"}
+{"item_id": "SHOT-017", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product — POS workflows", "date": "2026-11-12"}
+{"item_id": "SHOT-018", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — finance operations", "date": "2026-11-12"}
+{"item_id": "SHOT-019", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — command center / risk & compliance", "date": "2026-11-12"}
+{"item_id": "SHOT-020", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS product — vendor risk agents", "date": "2026-11-12"}
+{"item_id": "SHOT-021", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — explainer/marketing animation; no product screen evidenced in title/tags", "date": "2026-11-12"}
+{"item_id": "SHOT-022", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): CRM — logistics", "date": "2026-11-12"}
+{"item_id": "SHOT-023", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): CRM — logistics rerouting", "date": "2026-11-12"}
+{"item_id": "SHOT-024", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): CRM — real estate lead pipeline", "date": "2026-11-12"}
+{"item_id": "SHOT-025", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): CRM — agent morning brief", "date": "2026-11-12"}
+{"item_id": "SHOT-026", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS dashboard / web app — clinical workspace, patient portal, telehealth", "date": "2026-11-12"}
+{"item_id": "SHOT-027", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — patient portal", "date": "2026-11-12"}
+{"item_id": "SHOT-028", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / web app page — event discovery & ticket booking", "date": "2026-11-12"}
+{"item_id": "SHOT-029", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product platform — event discovery", "date": "2026-11-12"}
+{"item_id": "SHOT-030", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing landing page only", "date": "2026-11-12"}
+{"item_id": "SHOT-031", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — AI finance assistant / copilot", "date": "2026-11-12"}
+{"item_id": "SHOT-032", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — financial intelligence", "date": "2026-11-12"}
+{"item_id": "SHOT-033", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product — financial intelligence", "date": "2026-11-12"}
+{"item_id": "SHOT-034", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — logo/branding animation only", "date": "2026-11-12"}
+{"item_id": "SHOT-035", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — personal finance / financial dashboard", "date": "2026-11-12"}
+{"item_id": "SHOT-036", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): admin — B2B account settings, permissions / role-based access, approval workflow", "date": "2026-11-12"}
+{"item_id": "SHOT-037", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing landing page only", "date": "2026-11-12"}
+{"item_id": "SHOT-038", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): web app — B2B order management / procurement / checkout flow", "date": "2026-11-12"}
+{"item_id": "SHOT-039", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product — B2B product page with contract pricing", "date": "2026-11-12"}
+{"item_id": "SHOT-040", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): web app — B2B product catalog with filters/sort", "date": "2026-11-12"}
+{"item_id": "SHOT-041", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — B2B ecommerce / enterprise", "date": "2026-11-12"}
+{"item_id": "SHOT-042", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — SaaS marketing landing page only", "date": "2026-11-12"}
+{"item_id": "SHOT-043", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — paywall / pricing / subscription", "date": "2026-11-12"}
+{"item_id": "SHOT-044", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS dashboard — legal research / knowledge management", "date": "2026-11-12"}
+{"item_id": "SHOT-045", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — job search with filters / saved search", "date": "2026-11-12"}
+{"item_id": "SHOT-046", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — AI agent settings / privacy / trust", "date": "2026-11-12"}
+{"item_id": "SHOT-047", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS dashboard — document review / contract analysis / redline", "date": "2026-11-12"}
+{"item_id": "SHOT-048", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS dashboard — legal research", "date": "2026-11-12"}
+{"item_id": "SHOT-049", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — AI agent email follow-up / notifications / undo", "date": "2026-11-12"}
+{"item_id": "SHOT-050", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): SaaS dashboard — legal research for law firms", "date": "2026-11-12"}
+{"item_id": "SHOT-051", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — patient portal / medical billing (healthcare SaaS)", "date": "2026-11-12"}
+{"item_id": "SHOT-052", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — job pipeline / timeline / interview prep", "date": "2026-11-12"}
+{"item_id": "SHOT-053", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — patient portal / medical records", "date": "2026-11-12"}
+{"item_id": "SHOT-054", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — explainable AI / citations / evidence", "date": "2026-11-12"}
+{"item_id": "SHOT-055", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — patient portal / appointment booking / medical records", "date": "2026-11-12"}
+{"item_id": "SHOT-056", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — approval flow / bottom sheet / undo", "date": "2026-11-12"}
+{"item_id": "SHOT-057", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — agent activity log / funnel data visualization", "date": "2026-11-12"}
+{"item_id": "SHOT-058", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard / ERP-tagged — pharmacy inventory & order management", "date": "2026-11-12"}
+{"item_id": "SHOT-059", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — agent permissions / settings / empty state", "date": "2026-11-12"}
+{"item_id": "SHOT-060", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): admin dashboard — healthcare invoices / payments / data table", "date": "2026-11-12"}
+{"item_id": "SHOT-061", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — onboarding-tagged CV/evidence flow", "date": "2026-11-12"}
+{"item_id": "SHOT-062", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — onboarding / walkthrough", "date": "2026-11-12"}
+{"item_id": "SHOT-063", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — fintech spending coach / data visualization", "date": "2026-11-12"}
+{"item_id": "SHOT-064", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — savings goals", "date": "2026-11-12"}
+{"item_id": "SHOT-065", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — recurring payments / subscriptions", "date": "2026-11-12"}
+{"item_id": "SHOT-066", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — transaction detail / search", "date": "2026-11-12"}
+{"item_id": "SHOT-067", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — AI assistant / cash flow", "date": "2026-11-12"}
+{"item_id": "SHOT-068", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product — AI job application assistant", "date": "2026-11-12"}
+{"item_id": "SHOT-069", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / app — AI job matching", "date": "2026-11-12"}
+{"item_id": "SHOT-070", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / app — AI job search", "date": "2026-11-12"}
+{"item_id": "SHOT-071", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — fashion ecommerce", "date": "2026-11-12"}
+{"item_id": "SHOT-072", "source_id": "S01", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — AI fashion shopping", "date": "2026-11-12"}
+{"item_id": "SHOT-073", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website design", "date": "2026-11-12"}
+{"item_id": "SHOT-074", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard / SaaS — security", "date": "2026-11-12"}
+{"item_id": "SHOT-075", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website design", "date": "2026-11-12"}
+{"item_id": "SHOT-076", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — brand design only", "date": "2026-11-12"}
+{"item_id": "SHOT-077", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — health / AI food scanner", "date": "2026-11-12"}
+{"item_id": "SHOT-078", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — platform marketing website; product UI not evidenced", "date": "2026-11-12"}
+{"item_id": "SHOT-079", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — landing page only", "date": "2026-11-12"}
+{"item_id": "SHOT-080", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard / SaaS — spend analytics, enterprise subscriptions", "date": "2026-11-12"}
+{"item_id": "SHOT-081", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — health assistant", "date": "2026-11-12"}
+{"item_id": "SHOT-082", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — employee spend management + approvals", "date": "2026-11-12"}
+{"item_id": "SHOT-083", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — SaaS landing page only", "date": "2026-11-12"}
+{"item_id": "SHOT-084", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — brand identity only", "date": "2026-11-12"}
+{"item_id": "SHOT-085", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / app UI — shipment tracking", "date": "2026-11-12"}
+{"item_id": "SHOT-086", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — farming energy & crop monitoring", "date": "2026-11-12"}
+{"item_id": "SHOT-087", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — agency marketing website / branding", "date": "2026-11-12"}
+{"item_id": "SHOT-088", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard / CRM-adjacent — logistics customer management & revenue", "date": "2026-11-12"}
+{"item_id": "SHOT-089", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): CRM dashboard — lead management", "date": "2026-11-12"}
+{"item_id": "SHOT-090", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — website design (analytics product UI not evidenced)", "date": "2026-11-12"}
+{"item_id": "SHOT-091", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — SaaS landing page only", "date": "2026-11-12"}
+{"item_id": "SHOT-092", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): dashboard — healthcare analytics / patient management (snippet-only, older crawl)", "date": "2026-11-12"}
+{"item_id": "SHOT-093", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): OUT — website design (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-094", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): CRM dashboard / SaaS — property management (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-095", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): dashboard — fleet performance / shipment management (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-096", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): OUT — SaaS website design (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-097", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): CRM dashboard — customer management / account insights (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-098", "source_id": "S07", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): OUT — SaaS landing page only (snippet-only; listed twice in one crawl, counted once)", "date": "2026-11-12"}
+{"item_id": "SHOT-099", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — online learning", "date": "2026-11-12"}
+{"item_id": "SHOT-100", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — task management", "date": "2026-11-12"}
+{"item_id": "SHOT-101", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — delivery tracking", "date": "2026-11-12"}
+{"item_id": "SHOT-102", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — EV companion", "date": "2026-11-12"}
+{"item_id": "SHOT-103", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — personal finance (instance 1)", "date": "2026-11-12"}
+{"item_id": "SHOT-104", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — EV controller", "date": "2026-11-12"}
+{"item_id": "SHOT-105", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard / HR admin — workforce, payroll, task tracking", "date": "2026-11-12"}
+{"item_id": "SHOT-106", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): CRM dashboard — property sales & leads", "date": "2026-11-12"}
+{"item_id": "SHOT-107", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / app — shipping & live tracking", "date": "2026-11-12"}
+{"item_id": "SHOT-108", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — health spending tracker", "date": "2026-11-12"}
+{"item_id": "SHOT-109", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — healthcare & wellness", "date": "2026-11-12"}
+{"item_id": "SHOT-110", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — finance & budgeting", "date": "2026-11-12"}
+{"item_id": "SHOT-111", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product UI components — fintech cards, dark mode (design-system relevant)", "date": "2026-11-12"}
+{"item_id": "SHOT-112", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): web app — calendar & scheduling", "date": "2026-11-12"}
+{"item_id": "SHOT-113", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — personal finance (instance 2, distinct listing with identical title)", "date": "2026-11-12"}
+{"item_id": "SHOT-114", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): mobile app — team messaging", "date": "2026-11-12"}
+{"item_id": "SHOT-115", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — project management & collaboration", "date": "2026-11-12"}
+{"item_id": "SHOT-116", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard / admin — GPU cloud provisioning", "date": "2026-11-12"}
+{"item_id": "SHOT-117", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website design", "date": "2026-11-12"}
+{"item_id": "SHOT-118", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): dashboard — network topology", "date": "2026-11-12"}
+{"item_id": "SHOT-119", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-120", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-121", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-122", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — branding only", "date": "2026-11-12"}
+{"item_id": "SHOT-123", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-124", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-125", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-126", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-127", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — website page", "date": "2026-11-12"}
+{"item_id": "SHOT-128", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website (not the HR dashboard product)", "date": "2026-11-12"}
+{"item_id": "SHOT-129", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-130", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-131", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (OBSERVED): product / app UI", "date": "2026-11-12"}
+{"item_id": "SHOT-132", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-133", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — portfolio website", "date": "2026-11-12"}
+{"item_id": "SHOT-134", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-135", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-136", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (OBSERVED): OUT — marketing website", "date": "2026-11-12"}
+{"item_id": "SHOT-137", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): product app — AI skin shade matcher (snippet-only; exact form factor not confirmed)", "date": "2026-11-12"}
+{"item_id": "SHOT-138", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): OUT — ecommerce website design (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-139", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): OUT — website design (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-140", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): OUT — landing page only (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-141", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): dashboard — logistics management (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-142", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): dashboard — dental health intelligence (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-143", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): mobile app — health tech (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-144", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): OUT — personal portfolio website (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-145", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): dashboard — respiratory health (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-146", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): dashboard — logistics & supply chain (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-147", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): dashboard — logistics & warehouse management (snippet-only)", "date": "2026-11-12"}
+{"item_id": "SHOT-148", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): CRM dashboard (snippet-only, via Branding collection crawl)", "date": "2026-11-12"}
+{"item_id": "SHOT-149", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): dashboard — messaging (snippet-only, via Branding collection crawl)", "date": "2026-11-12"}
+{"item_id": "SHOT-150", "source_id": "S08", "kind": "dribbble-shot", "coverage_status": "OUT_OF_SCOPE_WITH_REASON", "evidence": "Profile extraction (SEARCH_SNIPPET_ONLY): OUT — landing page only (snippet-only, via Draft collection crawl)", "date": "2026-11-12"}
+{"item_id": "SHOT-151", "source_id": "S09", "kind": "dribbble-shot", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Profile extraction (ACCESS_BLOCKED): onboarding / company setup — in scope by topic, but content NOT verified (access blocked)", "date": "2026-11-12"}
+{"item_id": "S09", "source_id": "S09", "kind": "dribbble-shot-deep-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Live-browser visual inspection 2026-11-12 (curl/text-fetch blocked; recorded)", "date": "2026-11-12"}
+{"item_id": "S04-P001", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P002", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P003", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P004", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P005", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P006", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P007", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P008", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P009", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P010", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P011", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P012", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P013", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P014", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P015", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P016", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P017", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P018", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P019", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P020", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P021", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P022", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P023", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P024", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P025", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P026", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P027", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P028", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P029", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P030", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P031", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P032", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P033", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P034", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P035", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P036", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P037", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P038", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P039", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P040", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P041", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P042", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P043", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P044", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P045", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P046", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P047", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P048", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P049", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P050", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P051", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P052", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S04-P053", "source_id": "S04", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P001", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P002", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P003", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P004", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P005", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P006", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P007", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P008", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P009", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P010", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P011", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P012", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P013", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P014", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P015", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P016", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P017", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P018", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P019", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P020", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P021", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P022", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P023", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P024", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P025", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P026", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P027", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P028", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P029", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P030", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P031", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P032", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P033", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P034", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P035", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P036", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P037", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P038", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P039", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P040", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P041", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P042", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P043", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P044", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P045", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P046", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P047", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P048", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P049", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P050", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P051", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P052", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P053", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P054", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P055", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P056", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P057", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P058", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P059", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P060", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P061", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P062", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P063", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P064", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P065", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P066", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P067", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P068", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P069", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P070", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P071", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P072", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P073", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P074", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P075", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P076", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P077", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P078", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P079", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P080", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P081", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P082", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P083", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P084", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P085", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P086", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P087", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P088", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P089", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P090", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P091", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P092", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P093", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P094", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P095", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P096", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P097", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P098", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P099", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P100", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P101", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P102", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P103", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P104", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P105", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P106", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P107", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P108", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P109", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P110", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P111", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P112", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P113", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P114", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P115", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P116", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P117", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P118", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P119", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P120", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P121", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P122", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P123", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P124", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P125", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P126", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P127", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P128", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P129", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P130", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P131", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P132", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P133", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P134", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P135", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P136", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P137", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P138", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P139", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P140", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P141", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P142", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P143", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P144", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P145", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P146", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P147", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P148", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P149", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P150", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P151", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P152", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P153", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P154", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P155", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P156", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P157", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P158", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P159", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P160", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P161", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P162", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P163", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P164", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P165", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P166", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P167", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P168", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P169", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P170", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P171", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P172", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P173", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P174", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P175", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P176", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P177", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P178", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P179", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P180", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P181", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P182", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P183", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P184", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P185", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P186", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P187", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P188", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P189", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P190", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P191", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P192", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P193", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P194", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P195", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P196", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P197", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P198", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P199", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P200", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P201", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P202", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P203", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P204", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P205", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P206", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P207", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P208", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P209", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P210", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P211", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P212", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P213", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P214", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P215", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P216", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P217", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P218", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P219", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P220", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P221", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P222", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P223", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P224", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P225", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P226", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P227", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P228", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P229", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P230", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S05-P231", "source_id": "S05", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P001", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P002", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P003", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P004", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P005", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P006", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P007", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P008", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P009", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P010", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P011", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P012", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P013", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P014", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P015", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P016", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P017", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P018", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P019", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P020", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P021", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P022", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P023", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P024", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P025", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P026", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P027", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P028", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P029", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P030", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P031", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P032", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P033", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P034", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P035", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P036", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P037", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P038", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P039", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P040", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P041", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P042", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P043", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P044", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P045", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P046", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P047", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P048", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P049", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P050", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P051", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P052", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P053", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P054", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P055", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P056", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P057", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P058", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P059", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P060", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P061", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P062", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P063", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P064", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P065", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P066", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P067", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P068", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P069", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P070", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P071", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P072", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P073", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P074", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P075", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P076", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P077", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P078", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P079", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P080", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P081", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P082", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P083", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P084", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P085", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P086", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P087", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P088", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P089", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P090", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P091", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P092", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P093", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P094", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P095", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P096", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P097", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P098", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P099", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P100", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P101", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P102", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P103", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P104", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P105", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P106", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P107", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P108", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P109", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P110", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P111", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P112", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P113", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P114", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P115", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P116", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P117", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P118", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P119", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P120", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P121", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P122", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P123", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P124", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P125", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P126", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P127", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P128", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P129", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P130", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P131", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P132", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P133", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P134", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P135", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P136", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P137", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P138", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P139", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P140", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P141", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P142", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P143", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P144", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P145", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P146", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P147", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P148", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P149", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P150", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P151", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P152", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P153", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P154", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P155", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P156", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P157", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P158", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P159", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P160", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P161", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P162", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P163", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P164", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P165", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P166", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P167", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P168", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P169", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P170", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P171", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P172", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P173", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P174", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P175", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P176", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P177", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P178", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P179", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P180", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P181", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P182", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P183", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P184", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P185", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P186", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P187", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P188", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P189", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P190", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P191", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P192", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P193", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P194", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P195", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P196", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P197", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P198", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P199", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P200", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P201", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P202", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P203", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P204", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P205", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P206", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P207", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P208", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P209", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P210", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P211", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P212", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P213", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P214", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P215", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P216", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P217", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P218", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P219", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P220", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P221", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P222", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P223", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P224", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P225", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P226", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P227", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P228", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P229", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P230", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P231", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P232", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P233", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P234", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P235", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P236", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P237", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P238", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P239", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P240", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P241", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P242", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P243", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P244", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P245", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P246", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P247", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P248", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P249", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P250", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P251", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P252", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P253", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P254", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P255", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P256", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P257", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P258", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P259", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P260", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P261", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P262", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S06-P263", "source_id": "S06", "kind": "demo-route", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Bounded BFS crawl, HTTP 200, title recorded", "date": "2026-11-12"}
+{"item_id": "S02-W01", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W02", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W03", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W04", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W05", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W06", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W07", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W08", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W09", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W10", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W11", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W12", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W13", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W14", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W15", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W16", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W17", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W18", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-W19", "source_id": "S02", "kind": "studio-case-study", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Case page opened and read in full (browser.open)", "date": "2026-11-12"}
+{"item_id": "S02-D01", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D02", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D03", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D04", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D05", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D06", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D07", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D08", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D09", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D10", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D11", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D12", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S02-D13", "source_id": "S02", "kind": "linked-demo", "coverage_status": "DOCUMENTED_ONLY", "evidence": "Demo entry fetched (HTTP 200), SPA routes/modules inventoried from bundle strings/rendered text", "date": "2026-11-12"}
+{"item_id": "S03", "source_id": "S03", "kind": "github-repository", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Clone @904205c6; lint/format/build PASS (executed)", "date": "2026-11-12"}
+{"item_id": "UIMG-001", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-002", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-003", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-004", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-005", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-006", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-007", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-008", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-009", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-010", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-011", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-012", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-013", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-014", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-015", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-016", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-017", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-018", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-019", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-020", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-021", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-022", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-023", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-024", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-025", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-026", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-027", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-028", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-029", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-030", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-031", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-032", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-033", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-034", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-035", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-036", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-037", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-038", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-039", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-040", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-041", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-042", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-043", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-044", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-045", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-046", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-047", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-048", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-049", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-050", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-051", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-052", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-053", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-054", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-055", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
+{"item_id": "UIMG-056", "source_id": "S10", "kind": "user-image", "coverage_status": "VERIFIED_AND_STUDIED", "evidence": "Individual visual inspection; SHA-256 recorded; binary not republished", "date": "2026-11-12"}
