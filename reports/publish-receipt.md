@@ -2,7 +2,7 @@
 
 ## Current status: PUBLISHED to branch `research/design-intelligence`
 
-**354 of 356 corpus files are live on GitHub** on branch `research/design-intelligence` of `asadchoudharry/uitraining`, published 2026-11-12 by the Muse GitHub integration after the owner installed the App (see phase 2). A pull request to `main` accompanies this receipt; merging is the owner's decision. One file is held back by a GitHub platform restriction (see Residual).
+**355 of 356 corpus files are live on GitHub** on branch `research/design-intelligence` of `asadchoudharry/uitraining`, published 2026-11-12 by the Muse GitHub integration after the owner installed the App (see phase 2). A pull request to `main` accompanies this receipt; merging is the owner's decision. One file is held back by a GitHub platform restriction (see Residual).
 
 ### Verification (2026-11-12, after the final batch)
 - Branch head after the last content batch: `f69c853a4c94a60a046ca7deed1364a7a5a03ba8` (this receipt's own commit follows it).
